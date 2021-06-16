@@ -19,6 +19,7 @@ Key insights are supported by the findings below. For full view of code and resu
 ## District Summary
 This is a high level snapshot of the district's key metrics.
 <div>
+<details>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -32,6 +33,7 @@ This is a high level snapshot of the district's key metrics.
         text-align: right;
     }
 </style>
+</details>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -70,6 +72,7 @@ Table shows top 5 performing schools based on % Overall Passing.
 
 
 <div>
+<details>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -83,6 +86,7 @@ Table shows top 5 performing schools based on % Overall Passing.
         text-align: right;
     }
 </style>
+</details>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -181,6 +185,7 @@ Table shows top 5 performing schools based on % Overall Passing.
 Table shows bottom 5 performing schools based on % Overall Passing.
 
 <div>
+<details>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -194,6 +199,7 @@ Table shows bottom 5 performing schools based on % Overall Passing.
         text-align: right;
     }
 </style>
+</details>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -292,6 +298,7 @@ Table shows bottom 5 performing schools based on % Overall Passing.
 Table breaks down school performance based on relative school size within the district. 
 
 <div>
+<details>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
@@ -305,6 +312,7 @@ Table breaks down school performance based on relative school size within the di
         text-align: right;
     }
 </style>
+    </details>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">

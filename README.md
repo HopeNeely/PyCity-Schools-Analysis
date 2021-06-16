@@ -1,6 +1,6 @@
 # PyCity Schools Analysis 
 
-This is an analysis of fictitious district-wide standardized test results. Data is contains student's math and reading scores, as well as various information on the schools they attend. The purpose is to uncover trends in school performance using the pandas library for Python.
+This is an analysis of standardized test results of a fictitious district. Data contains student's math and reading scores, as well as various information on the schools they attend. The purpose is to uncover trends in school performance using the pandas library for Python.
 
 ## Key Insights: 
 * Top performing schools are all smaller charter schools with smaller per student budgets. 

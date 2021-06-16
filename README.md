@@ -90,8 +90,8 @@ Table shows top 5 performing schools based on % Overall Passing.
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
-      <th></th>
+      <th>School Name</th>
+      <th>School Type</th>
       <th>Total Students</th>
       <th>Total School Budget</th>
       <th>Average Reading Score</th>
@@ -100,18 +100,6 @@ Table shows top 5 performing schools based on % Overall Passing.
       <th>% Passing Math</th>
       <th>% Passing Reading</th>
       <th>% Overall Passing</th>
-    </tr>
-    <tr>
-      <th>School Name</th>
-      <th>School Type</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
@@ -203,8 +191,8 @@ Table shows bottom 5 performing schools based on % Overall Passing.
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
-      <th></th>
+      <th>School Name</th>
+      <th>School Type</th>
       <th>Total Students</th>
       <th>Total School Budget</th>
       <th>Average Reading Score</th>
@@ -213,18 +201,6 @@ Table shows bottom 5 performing schools based on % Overall Passing.
       <th>% Passing Math</th>
       <th>% Passing Reading</th>
       <th>% Overall Passing</th>
-    </tr>
-    <tr>
-      <th>School Name</th>
-      <th>School Type</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
@@ -316,20 +292,12 @@ Table breaks down school performance based on relative school size within the di
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
+      <th>School Size</th>
       <th>Average Math Score</th>
       <th>Average Reading Score</th>
       <th>% Passing Math</th>
       <th>% Passing Reading</th>
       <th>% Overall Passing</th>
-    </tr>
-    <tr>
-      <th>School Size</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
